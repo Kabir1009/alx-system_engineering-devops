@@ -1,1 +1,1 @@
-Write a shell script that creates a file as above
+script that displays all users and their home directories, sorted by users
