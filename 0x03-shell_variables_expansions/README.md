@@ -1,1 +1,1 @@
-love exponet breadth
+binary to decimal
